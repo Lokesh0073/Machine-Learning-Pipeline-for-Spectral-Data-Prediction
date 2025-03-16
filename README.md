@@ -22,5 +22,5 @@ streamlit run Final_Predction_with_st.py
    - Click to save predictions as a CSV file.
 
 ## Contact
-**Author:** Your Name  
-📧 **Email:** your.email@example.com
+**Author:** Lokesh Sarode  
+📧 **Email:** lsarode2000@gmail.com
